@@ -155,13 +155,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 900px;
-}
-.para {
-    display: flex;
-    background-color: sandybrown;
-    flex-direction: column;
-    justify-content: flex-start;
 }
 
 /* HEX COLORS
